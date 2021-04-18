@@ -1,4 +1,4 @@
-This bob marlet tripute page.
+This bob marley tribute page.
 
 my first HTML CSS project.
 
